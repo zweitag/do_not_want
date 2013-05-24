@@ -1,6 +1,4 @@
 module DoNotWant
-  VERSION = "0.0.1"
-
   # Bad methods and their reasons
 
   BAD_INSTANCE_METHODS = {
