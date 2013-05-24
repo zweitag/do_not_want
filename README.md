@@ -30,6 +30,7 @@ The disabled instance methods are:
     toggle
     toggle!
     update_attribute
+    update_column
 
 The disabled class methods are:
 
